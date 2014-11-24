@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KayakoRestAPI", "KayakoRestAPI\KayakoRestAPI.csproj", "{AE83CAF2-DBA1-4360-AFE5-849D2EB0E027}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApplication", "TestApplication\TestApplication.csproj", "{752985BA-E382-4716-966D-F566F7E3489D}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs25
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = KayakoRestAPI\\KayakoRestAPI.csproj
+		SccProjectName1 = KayakoRestAPI
+		SccLocalPath1 = KayakoRestAPI
+		SccProjectUniqueName2 = TestApplication\\TestApplication.csproj
+		SccProjectName2 = TestApplication
+		SccLocalPath2 = TestApplication
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE83CAF2-DBA1-4360-AFE5-849D2EB0E027}.Debug|x86.ActiveCfg = Debug|x86
+		{AE83CAF2-DBA1-4360-AFE5-849D2EB0E027}.Debug|x86.Build.0 = Debug|x86
+		{AE83CAF2-DBA1-4360-AFE5-849D2EB0E027}.Release|x86.ActiveCfg = Release|x86
+		{AE83CAF2-DBA1-4360-AFE5-849D2EB0E027}.Release|x86.Build.0 = Release|x86
+		{752985BA-E382-4716-966D-F566F7E3489D}.Debug|x86.ActiveCfg = Debug|x86
+		{752985BA-E382-4716-966D-F566F7E3489D}.Debug|x86.Build.0 = Debug|x86
+		{752985BA-E382-4716-966D-F566F7E3489D}.Release|x86.ActiveCfg = Release|x86
+		{752985BA-E382-4716-966D-F566F7E3489D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
