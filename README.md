@@ -27,7 +27,8 @@ Below Edits in kayakorestapi_2012.03.26
 **EDIT 9** Support for User Search (http://wiki.kayako.com/display/DEV/REST+-+UserSearch)
 Below Edits in kayakorestapi_2011.07.19
 
-kayakorestapi_2012.03.26
+**kayakorestapi_2012.03.26**
+
 **EDIT 8** Support for TicketCustomField
 kayakorestapi_2012.03.26
 
