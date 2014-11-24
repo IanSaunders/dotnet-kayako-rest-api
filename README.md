@@ -37,8 +37,8 @@ kayakorestapi_2012.03.26
 **EDIT 6** Example of adding extra functions into TicketCustomField (Includes Example PHP file)
 kayakorestapi_2012.03.26
 
-Below Edits in kayakorestapi_2011.07.15
-kayakorestapi_2012.03.26
+**Below Edits in kayakorestapi_2011.07.15
+kayakorestapi_2012.03.26**
 
 **EDIT 5** Added support for CreateUser and Adding/Getting Attachments
 kayakorestapi_2012.03.26
