@@ -23,24 +23,34 @@ The API is horrendously is easy to use. That said there are a few examples of us
 
 **Please upgrade to the latest Kayako 4 version to avoid bugs and for all the features of this API to work**
 Below Edits in kayakorestapi_2012.03.26
+
 **EDIT 9** Support for User Search (http://wiki.kayako.com/display/DEV/REST+-+UserSearch)
 Below Edits in kayakorestapi_2011.07.19
+
 kayakorestapi_2012.03.26
 **EDIT 8** Support for TicketCustomField
 kayakorestapi_2012.03.26
+
 **EDIT 7** Attachment API bug seems to be fixed in latest version so getting rid of work around
 kayakorestapi_2012.03.26
+
 **EDIT 6** Example of adding extra functions into TicketCustomField (Includes Example PHP file)
 kayakorestapi_2012.03.26
-**Below Edits in kayakorestapi_2011.07.15
+
+Below Edits in kayakorestapi_2011.07.15
 kayakorestapi_2012.03.26
+
 **EDIT 5** Added support for CreateUser and Adding/Getting Attachments
 kayakorestapi_2012.03.26
+
 **EDIT 4** Delete/Update Ticket (2011/07/09)
 kayakorestapi_2012.03.26
+
 **EDIT 3** Add Departments and filter tickets (2011/07/07)
 kayakorestapi_2012.03.26
+
 **EDIT 2** Added UpdateUserOrganization
 kayakorestapi_2012.03.26
+
 **EDIT 1** Some user organisation work now added
 note: changes are to trunk, release will indicate which**strong text** 'edits' are contained
